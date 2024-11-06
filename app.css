@@ -94,6 +94,36 @@ body{
     width: 25px;
     height: 25px;
     background-color: white;
+    margin: 0 4px;
+}
+
+#search-input{
+    width: 100%;
+    height: 35px;
+}
+
+.groups{
+    width: 100%;
+    background-color: white;
+
+}
+
+.groups li{
+    list-style: none;
+}
+
+.groups li:hover{
+    background-color: #cae88b;
+}
+
+#day-selector{
+    width: 100%;
+    height: 35px;
+}
+
+#week-selector{
+    width: 100%;
+    height: 35px;
 }
 
 #right-section{
